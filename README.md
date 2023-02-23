@@ -1,1 +1,1 @@
-# Laboratorna-robota-algoritm
+# Завдання до лабораторної рроботи знаходиться на GoogleClassroom із відповідним номером
